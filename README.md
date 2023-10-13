@@ -2,10 +2,9 @@
 
 The Online Learning Management System (LMS) in PHP is a comprehensive web-based platform designed to facilitate the management, delivery, and tracking of educational courses and content. This LMS is intended for educational institutions, corporate training programs, or any organization that needs a system to deliver online learning materials.
 
-Key Features:
+# Key Features:
 
-User Management:
-
+## User Management:
 Admin, instructors, and students have separate login access.
 User registration, profile management, and password reset functionality.
 Course Management:
@@ -13,23 +12,24 @@ Course Management:
 Admin can create, edit, and delete courses.
 Instructors can add and manage course content, including text, video, and quizzes.
 Course categorization and tagging for easy search and organization.
-Content Management:
 
+
+## Content Management:
 Support for various content types, such as video, PDFs, text, and quizzes.
 Version control for course content updates.
 Content scheduling and release options.
-Assessment and Quizzes:
 
+## Assessment and Quizzes:
 Ability to create and manage quizzes with various question types.
 Automatic grading and feedback for quizzes.
 Support for both formative and summative assessments.
-Progress Tracking:
 
+## Progress Tracking:
 Students can track their progress within courses.
 Admin and instructors can monitor student performance.
 Generating progress reports and analytics.
-Discussion Forums:
 
+## Discussion Forums:
 Course-specific discussion forums for student interaction and Q&A.
 Real-time chat support or integration with external messaging platforms.
 Notification System:
